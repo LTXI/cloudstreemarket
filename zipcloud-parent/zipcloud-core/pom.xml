@@ -7,7 +7,6 @@
   </parent>
   <artifactId>zipcloud-core</artifactId>
   <name>ZipCloud Core</name>
-	
 	<dependencies>
 		<dependency>
 	<groupId>javax.ws.rs</groupId>
